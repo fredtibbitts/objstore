@@ -16,7 +16,7 @@ require (
 	github.com/minio/minio-go/v7 v7.0.45
 	github.com/ncw/swift v1.0.53
 	github.com/opentracing/opentracing-go v1.2.0
-	github.com/oracle/oci-go-sdk/v65 v65.13.0
+	github.com/oracle/oci-go-sdk/v65 v65.41.1
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.2
 	github.com/prometheus/common v0.36.0
@@ -82,7 +82,7 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
